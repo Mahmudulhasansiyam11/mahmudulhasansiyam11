@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahmudul Hasan
+
+- 🌱 I’m learning MERN Stack
+- 💻 I love building web apps
+- 🚀 Currently working on full-stack projects
+
 
 <!--
 **Mahmudulhasansiyam11/mahmudulhasansiyam11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
