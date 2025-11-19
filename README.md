@@ -52,6 +52,43 @@ Hi! I'm Mahmudul Hasan Siyam, a passionate Front-End Developer (React, Tailwind,
 </p>
 
 
+## 🔥 Languages & Frameworks & Tools 🔥
+
+<p align="center">
+  
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
+
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
+
+  <!-- Redux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
+
+  <!-- Tailwind -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
+
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
+
+  <!-- Express -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
+
+  <!-- Firebase -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
+
+  <!-- Responsive Design -->
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" height="40" alt="Responsive Design" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
+
+</p>
+
+
 <!--
 **Mahmudulhasansiyam11/mahmudulhasansiyam11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
