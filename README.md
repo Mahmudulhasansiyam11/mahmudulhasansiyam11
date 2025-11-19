@@ -4,6 +4,10 @@
 - 💻 I love building web apps
 - 🚀 Currently working on full-stack projects
 
+  <p align="center">
+  <img src="https://i.ibb.co.com/nMGnFJh7/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg" alt="Mahmudul Hasan Banner" width="100%" />
+</p>
+
 
 <!--
 **Mahmudulhasansiyam11/mahmudulhasansiyam11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
