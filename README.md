@@ -20,73 +20,15 @@ Hi! I'm Mahmudul Hasan Siyam, a passionate Front-End Developer (React, Tailwind,
 
 🚀 Always excited to learn new tech and improve every day
 
-<p align="left">
-
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
-
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
-
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-
-  <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
-
-  <!-- Responsive Design (Using web icon) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="45" height="45" alt="Responsive Design" />
-
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
-
-  <!-- Express.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js" />
-
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React.js" />
-
-  <!-- Firebase -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase Authentication" />
-
-</p>
-
 
 ## 🔥 Languages & Frameworks & Tools 🔥
 
-<p align="center">
-  
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudulhasansiyam11&show_icons=true&locale=en" alt="mahmudulhasansiyam11" /></p>
 
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudulhasansiyam11&" alt="mahmudulhasansiyam11" /></p>
 
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
-
-  <!-- Redux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
-
-  <!-- Tailwind -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
-
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
-
-  <!-- Express -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
-
-  <!-- Firebase -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
-
-  <!-- Responsive Design -->
-  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" height="40" alt="Responsive Design" style="margin: 10px; padding: 8px; background: #f5f5f5; border-radius: 10px;" />
-
-</p>
 
 
 <!--
