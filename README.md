@@ -1,10 +1,4 @@
-# 👋 Hi, I'm Mahmudul Hasan
-
-- 🌱 I’m learning MERN Stack
-- 💻 I love building web apps
-- 🚀 Currently working on full-stack projects
-
-  <p align="center">
+<p align="center">
   <img src="https://i.ibb.co.com/nMGnFJh7/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg" alt="Mahmudul Hasan Banner" width="100%" />
 </p>
 
